@@ -25,6 +25,10 @@ MOVIEO is a sleek, React-based application for discovering movies and TV shows. 
 - Moment.js
 - TailwindCSS
 
+## Deployment
+
+https://movie-app-one-indol.vercel.app/
+
 ## Authors
 
 - [@Omnia Ragab](https://www.github.com/omnia-ragab)
