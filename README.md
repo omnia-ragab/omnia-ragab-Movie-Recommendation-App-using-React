@@ -1,12 +1,32 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# MOVIEO – Movie App Documentation
 
-Currently, two official plugins are available:
+MOVIEO is a sleek, React-based application for discovering movies and TV shows. Powered by The Movie Database (TMDb) API, it delivers an immersive user experience with features such as trending banners, carousels, search functionality, and detailed content pages. The app is fully responsive and optimized for both desktop and mobile.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Key Features:
 
-## Expanding the ESLint configuration
+- Trending Banner: A dynamic, auto-rotating banner showcasing trending content.
+- Sliders & Carousels: Organized carousels for Trending, Now Playing, Top Rated, Popular, and Airing Today.
+- Search Functionality: Instantly search for movies and TV shows.
+- Details Page: View comprehensive details, including trailers and ratings.
+- Responsive Design: Seamless performance across devices.
+- Loading States: Animated loaders provide a smooth data-fetching experience.
+- Intuitive Navigation: Accessible via a responsive header, footer, and mobile nav bar.
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+
+## Technologies Used
+
+- React
+- Redux Toolkit & React Redux
+- React Router DOM
+- Axios
+- React Slick & Slick Carousel
+- Moment.js
+- TailwindCSS
+
+## Authors
+
+- [@Omnia Ragab](https://www.github.com/omnia-ragab)
+- [@Mahmoud Nasser](https://www.github.com/Mahmoud-Nasser7)
+
